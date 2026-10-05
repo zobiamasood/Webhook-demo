@@ -1,5 +1,4 @@
 # Webhook-demo
-# Webhook Demo
 
 A simple backend project built with **Node.js** and **Express.js** to understand and test the basic concept of **webhooks** using Postman.
 
